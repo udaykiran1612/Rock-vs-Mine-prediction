@@ -1,1 +1,1 @@
-# Rock-vs-Mine-prediction
+# Rock-vs-Mine-prediction in Machine Learning 
